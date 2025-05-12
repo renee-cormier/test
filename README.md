@@ -1,1 +1,1 @@
-# test repository needed to join RStudio
+# Repository for testing my Git/GitHub setup
